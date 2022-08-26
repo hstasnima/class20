@@ -1,0 +1,112 @@
+.relative{
+    position: relative;
+    height: 600px;
+    width:400;
+    margin: auto;
+    background-color: darkgray;
+    border: 1px solid;
+}
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+.class1{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: darkolivegreen;
+}
+.class2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: chocolate;
+}
+.class3{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: goldenrod;
+}
+.class4{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: cornflowerblue;
+}
+
+.class5{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: cadetblue;
+}
+.class6{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+   height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: mediumpurple;
+}
+.class7{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: darkslategray;
+}
+.class8{
+    position: absolute;
+    top: 0;
+    bottom:0;
+    left: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: gray;
+}
+.class9{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 150px;
+    width:150px;
+    margin: auto;
+    background-color: yellowgreen;
+}
+h5{
+   
+    display: inline-block;
+}
+#img{
+    display: inline-block;
+    margin-top: 30px;
+    height: 30px;
+    width:40px;
+    border-radius: 50px;
+    align-items: center;
+}
